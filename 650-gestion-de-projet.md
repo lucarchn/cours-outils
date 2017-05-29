@@ -11,4 +11,5 @@ permalink: /outils/gestion-de-projet/
 - Trello : permet de constituer des listes de tâches.
 - Basecamp : permet de communiquer et partager des fichiers.
 - Etherpad : léger et facile d’utilisation, bloc-notes en ligne, sans login.
+- Figma : partage d'idées et projets en collaborations (plateforme de dessin vectoriel).
 
